@@ -1,0 +1,7 @@
+venv
+.vscode
+capturedFaces
+unauthorizedFaces
+logs_all.csv
+logs_authorized.csv
+logs_unauthorized.csv
