@@ -1,5 +1,4 @@
 venv
-.vscode
 capturedFaces
 unauthorizedFaces
 logs_all.csv
