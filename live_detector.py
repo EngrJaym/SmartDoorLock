@@ -12,9 +12,9 @@ from sklearn.svm import SVC
 from datetime import datetime
 
 # --- PATHS ---
-dataset_path = r"C:\Users\ocamp\OneDrive\Documents\4CPE\AI Practice\authorizedFaces"
-captured_faces_path = r"C:\Users\ocamp\OneDrive\Documents\4CPE\AI Practice\capturedFaces"
-unauthorized_faces_path = r"C:\Users\ocamp\OneDrive\Documents\4CPE\AI Practice\unauthorizedFaces"
+dataset_path = r""
+captured_faces_path = r""
+unauthorized_faces_path = r""
 
 log_all = "logs_all.csv"
 log_auth = "logs_authorized.csv"

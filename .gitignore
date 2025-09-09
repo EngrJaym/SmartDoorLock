@@ -1,4 +1,5 @@
 venv
+.env
 capturedFaces
 unauthorizedFaces
 logs_all.csv
