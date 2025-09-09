@@ -15,9 +15,9 @@ from sklearn.svm import SVC
 detector = MTCNN()
 embedder = FaceNet()
 
-dataset_path = r"C:\Users\ocamp\OneDrive\Documents\4CPE\AI Practice\authorizedFaces"
-unauthorizedset_path = r"C:\Users\ocamp\OneDrive\Documents\4CPE\AI Practice\unauthorizedFaces"
-capturedFace_path = r"C:\Users\ocamp\OneDrive\Documents\4CPE\AI Practice\capturedFaces"
+dataset_path = r""
+unauthorizedset_path = r""
+capturedFace_path = r""
 capturedFacesCount = len([f for f in os.listdir(capturedFace_path) if os.path.isfile(os.path.join(capturedFace_path, f))])
 print("Captured faces count:", capturedFacesCount)
 
